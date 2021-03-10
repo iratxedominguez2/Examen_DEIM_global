@@ -6,6 +6,7 @@ public class CreadorDeHuevos : MonoBehaviour
 {
     [SerializeField] GameObject Huevo;
     public int contador;
+    [SerializeField] Collider other;
     // Start is called before the first frame update
     void Start()
     {

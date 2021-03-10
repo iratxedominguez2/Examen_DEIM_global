@@ -242,6 +242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Huevo: {fileID: 6477041836641978750, guid: 421d9070ac6f93d4fa38305ddb0562e9, type: 3}
   contador: 0
+  other: {fileID: -943251165793764912, guid: 421d9070ac6f93d4fa38305ddb0562e9, type: 3}
 --- !u!4 &945142301
 Transform:
   m_ObjectHideFlags: 0
@@ -464,7 +465,7 @@ GameObject:
   - component: {fileID: 1899288006}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Plane
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
