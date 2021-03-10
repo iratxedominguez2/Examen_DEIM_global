@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 946665287}
   - component: {fileID: 946665286}
   m_Layer: 5
-  m_Name: Text
+  m_Name: HuevosCogidos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -540,7 +540,7 @@ GameObject:
   - component: {fileID: 1311331997}
   - component: {fileID: 1311331996}
   m_Layer: 5
-  m_Name: Text
+  m_Name: HuevosRotos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
