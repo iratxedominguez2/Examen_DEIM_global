@@ -22,7 +22,7 @@ public class CreadorDeHuevos : MonoBehaviour
         float randomX = Random.Range(-18f, 18f);
         float randomZ = Random.Range(-18f, 18f);
 
-        Vector3 RndmPos = new Vector3(randomX, 0, randomZ);
+        Vector3 RndmPos = new Vector3(randomX, 25f, randomZ);
         Instantiate(Huevo, RndmPos, Quaternion.identity);
 
     }
